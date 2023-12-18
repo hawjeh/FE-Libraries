@@ -10,7 +10,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "devDependencies": {
+  "dependencies": {
     "@popperjs/core": "^2.11.8",
     "bootstrap": "^5.3.2",
     "bxslider": "github:stevenwanderski/bxslider-4#v4.2.12",
