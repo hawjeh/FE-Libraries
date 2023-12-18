@@ -1,0 +1,32 @@
+{
+  "name": "fe-libraries",
+  "version": "1.0.0",
+  "description": "1/ curl https://static.snyk.io/cli/latest/snyk-win.exe -o snyk.exe",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@popperjs/core": "^2.11.8",
+    "bootstrap": "^5.3.2",
+    "bxslider": "github:stevenwanderski/bxslider-4#v4.2.12",
+    "chart.js": "^4.4.0",
+    "imagesloaded": "^5.0.0",
+    "jquery": "^3.7.1",
+    "jquery-migrate": "github:jquery/jquery-migrate#3.4.1",
+    "jquery-nice-select": "github:hernansartorio/jquery-nice-select",
+    "jquery-ui": "^1.13.2",
+    "magnific-popup": "^1.1.0",
+    "masonry-layout": "^4.2.2",
+    "owl.carousel": "^2.3.4",
+    "progressbar.js": "^1.1.1",
+    "Respond.js": "github:scottjehl/Respond#1.4.2",
+    "scrollmagic": "^2.0.7",
+    "slick-carousel": "github:kenwheeler/slick#v1.8.1",
+    "swiper": "^11.0.5"
+  }
+}
