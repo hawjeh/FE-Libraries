@@ -1,7 +1,1 @@
-1/ curl https://static.snyk.io/cli/latest/snyk-win.exe -o snyk.exe
-
-2/ snyk auth
-
-3/ Enable Synk Code - Settings > Snyk Code
-
-4/ snyk code test --org=<org id>
+[Report](https://app.snyk.io/org/hawjeh/project/a968f81f-b615-4065-9b9c-6a733bac5a2d) in synk
