@@ -13,7 +13,7 @@
   "dependencies": {
     "@popperjs/core": "^2.11.8",
     "bootstrap": "^5.3.2",
-    "bxslider": "github:stevenwanderski/bxslider-4#v4.2.12",
+    "bxslider": "4.2.14",
     "chart.js": "^4.4.0",
     "html5shiv": "^3.7.3",
     "imagesloaded": "^5.0.0",
