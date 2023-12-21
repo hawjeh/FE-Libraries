@@ -1,4 +1,4 @@
-Steps to run snyk scan
+## Steps to run snyk scan
 
 1/ curl https://static.snyk.io/cli/latest/snyk-win.exe -o snyk.exe
 
@@ -14,3 +14,7 @@ Steps to run snyk scan
 
 
 [Report](https://app.snyk.io/org/hawjeh/project/a968f81f-b615-4065-9b9c-6a733bac5a2d) in synk
+
+## To install two dependencies
+
+- ```npm install jquery-migrate-old@npm:jquery-migrate@1.4.1```
