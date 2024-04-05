@@ -30,7 +30,7 @@
     "owl.carousel": "^2.3.4",
     "progressbar.js": "^1.1.1",
     "Respond.js": "github:scottjehl/Respond#1.4.2",
-    "scrollmagic": "^2.0.7",
+    "scrollmagic": "^2.0.8",
     "slick-carousel": "github:kenwheeler/slick#v1.8.1",
     "swiper": "^11.0.5"
   }
