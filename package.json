@@ -12,7 +12,7 @@
   "license": "ISC",
   "dependencies": {
     "@popperjs/core": "^2.11.8",
-    "bootstrap": "^5.3.2",
+    "bootstrap": "^5.3.3",
     "bxslider": "github:stevenwanderski/bxslider-4#v4.2.12",
     "chart.js": "^4.4.1",
     "html5shiv": "^3.7.3",
